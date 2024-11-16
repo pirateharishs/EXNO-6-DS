@@ -202,4 +202,4 @@ hm=sns.heatmap(data=data)
 ![image](https://github.com/user-attachments/assets/91a4e8f1-bb8b-4c6e-b2a6-93a98d0a25a1)
 
 # Result:
- Include your result here
+ Thus, all the data visualization techniques of seaborn has been implemented.
